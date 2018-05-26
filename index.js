@@ -11,6 +11,6 @@ function happyHolidaysTo (name) {
 
 
 function happyHolidayTo (holiday, name) {
-  document.write(Happy + "holiday" + "name!");
+  return (Happy + "holiday" + "name!");
 }
 
